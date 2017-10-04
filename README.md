@@ -1,2 +1,3 @@
 # hello-world
-learning how to
+learning how to  
+About myself
